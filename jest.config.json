@@ -1,0 +1,8 @@
+{
+    "roots": [
+      "./"
+    ],
+    "coverageReporters": ["lcov", "text"],
+    "notify": true
+  }
+  
